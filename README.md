@@ -1,5 +1,7 @@
 # 🏫 AI-Powered LinkedIn School Influencer Discovery Tool
 
+Live Link (https://edxso-linkedin-school-influencer-discovery-hqn22qjd9cpysesqxdy.streamlit.app/)
+
 <img width="951" height="478" alt="Screenshot 2026-11-12 114454" src="https://github.com/user-attachments/assets/fc5308a4-aec1-40e3-8531-0a2c973237cd" />
 
 <img width="953" height="473" alt="Screenshot 2026-11-12 114513" src="https://github.com/user-attachments/assets/b237ad19-92a5-41dc-81c1-0b5544cfa4a4" />
