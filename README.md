@@ -1,5 +1,10 @@
 # 🏫 AI-Powered LinkedIn School Influencer Discovery Tool
 
+<img width="951" height="478" alt="Screenshot 2026-11-12 114454" src="https://github.com/user-attachments/assets/fc5308a4-aec1-40e3-8531-0a2c973237cd" />
+
+<img width="953" height="473" alt="Screenshot 2026-11-12 114513" src="https://github.com/user-attachments/assets/b237ad19-92a5-41dc-81c1-0b5544cfa4a4" />
+
+
 Built for the **EDXSO AI Intern Assignment**. This application reduces the manual effort required to identify high-leverage decision-makers, consultants, former principals, trustees, and multi-school network leaders across the Indian K-12 school education ecosystem.
 
 Given a single reference LinkedIn profile, the system executes an end-to-end workflow:
